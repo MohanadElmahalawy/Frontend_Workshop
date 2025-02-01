@@ -1,0 +1,28 @@
+h2{
+    color:rgb(247, 107, 209,1);
+    font-weight: 900;
+}
+.container{
+    max-width: 80%;
+    margin: auto;
+}
+.container2{
+    background-color:rgb(247, 107, 209,0.1);
+    
+
+}
+
+span{
+    font-weight: 900;
+}
+
+.img{
+    background-image: url('Images/img1.PNG');
+    width: 100%;
+    height: 200px;
+    border: solid;
+    background-size:cover;
+    border-radius:20px;
+    background-repeat: no-repeat;
+    
+}

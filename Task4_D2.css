@@ -1,0 +1,30 @@
+.first, .second{
+    background-color: rgb(255,0,0,0.4);
+    border: solid;
+    border-color: aqua black;
+    margin-bottom: 20px;
+    padding-left: 50px;
+    padding-top: 50px;
+    display: inline-block;
+    color:white;
+
+    border-width: 10px;
+    width: 30%;
+    height: 300px;
+   
+
+}
+
+.second{
+    background-color: rgb(255,0,0,1);
+    border-bottom-style: dashed ;
+    border-top-style: dashed;
+    border-left-style: double;
+    
+    box-sizing: border-box; 
+    border-right-style:groove;
+
+
+}
+
+
